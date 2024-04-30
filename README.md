@@ -18,3 +18,7 @@ It's an exercise intended to demonstrate:
 ## To run locally
 
 - `npm start` as per usual
+
+## tut from here
+
+https://www.youtube.com/watch?v=xc4uOzlndAk
